@@ -1,7 +1,7 @@
 ## Perfil
  👋 Hola, soy Izan, desarrollador de aplicaciones multiplataforma con gran pasión por la programación y la tecnología. Conocimientos en campos como matemáticas o física,  habilidades de trabajo en equipo y experiencia con el trabajo de cara al público.
  
- 📫 Mi correo: ifontenlarosende@gmail.com 
+ 📫 Mi correo: 
 
 
 ### Skills
